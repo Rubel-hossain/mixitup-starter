@@ -1,0 +1,32 @@
+/**************************
+
+ Mixitup 
+
+ ***********************/
+
+ .mix-container .mix{
+
+ 	display:none;
+ }
+
+ img{
+ 	margin:0;
+ 	max-width: 100%;
+ }
+
+ .mix-control ul li{
+
+ 	font-size:20px;
+ 	padding:10px 20px;
+ 	text-transform:uppercase;
+ 	cursor:pointer;
+ }
+
+ .mix-control ul li.active{
+
+ 	color:blue;
+ }
+
+ .mix img{
+ 	margin-bottom:25px;
+ }
